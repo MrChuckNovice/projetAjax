@@ -1,0 +1,28 @@
+body
+h1{  
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+.description{
+    margin: auto;
+    margin-top: 50px;
+    width: 600px;
+    height: 500px;
+    background-color: blue;
+}
+
+.photo1{
+
+}
+
+.photo2{
+
+}
+
+.video{
+
+}

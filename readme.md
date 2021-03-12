@@ -37,3 +37,4 @@ Street of Rage(1991, Sega),
 Double Dragon(1987 Technos),
 Teenage Mutant Hero Turtles(1989, Konami)
 
+allo
